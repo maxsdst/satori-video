@@ -1,0 +1,6 @@
+[submodule "satori-video-backend"]
+	path = satori-video-backend
+	url = https://github.com/maxsdst/satori-video-backend.git
+[submodule "satori-video-frontend"]
+	path = satori-video-frontend
+	url = https://github.com/maxsdst/satori-video-frontend.git
