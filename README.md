@@ -32,7 +32,7 @@ A short video-sharing platform similar to TikTok, where users can upload, view, 
 
 [satori.video](https://satori.video/)
 
-[<img src="https://github.com/user-attachments/assets/d8483c3d-5e6a-40e5-bf76-4215298779d1">](https://satori.video/)
+[<img src="https://github.com/user-attachments/assets/09f8fdc1-16cf-4b11-9782-c4d8a26d9db1">](https://satori.video/)
 
 <br/>
 
